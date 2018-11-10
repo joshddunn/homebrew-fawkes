@@ -1,8 +1,8 @@
 class Fawkes < Formula
   desc ""
   homepage ""
-  url "https://github.com/joshddunn/fawkes/archive/v0.0.0.tar.gz"
-  sha256 "2f794f7b13401d49915ddea487e77cc412fdf9806b644883b4d04b8328354bf3"
+  url "https://github.com/joshddunn/fawkes/archive/v0.0.1.tar.gz"
+  sha256 "3ed3ab45412890699be60d1f5d5e1e267454d56b10b65073e417c1e5f6a6bf5c"
 
   def install
     bin.install 'fawkes'
